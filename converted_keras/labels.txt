@@ -1,0 +1,3 @@
+0 Paper Bag
+1 Plastic Bag
+2 Garbage Bag
